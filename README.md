@@ -1,2 +1,2 @@
 # OctoLabs
-iOS Playgrounds featuring Programming Languages
+Web Playgrounds featuring Programming Languages

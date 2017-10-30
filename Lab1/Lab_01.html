@@ -6,8 +6,12 @@
   <body>
     <script type="text/javascript">
      var Key = "ssh-rsa_0ab1967";
-     Key = Key.split(  )
+     Key = Key.split(  );
+     getElementById('ssh-key').innerHTML(Key);
      console.log(Key);
     </script>
+    <header>
+      <p>Key: <b><span id="ssh-key"></span></b>
+    </header>
   </body>
 </html>

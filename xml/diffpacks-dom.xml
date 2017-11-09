@@ -4,4 +4,8 @@
     <key>ssh-rsa8112017</key>
   </node>
   
+  <node>
+    pack>nil
+    <key>ssh-rsa8112017</key>
+  </node>
 </dom>

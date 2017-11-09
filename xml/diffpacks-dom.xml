@@ -1,11 +1,16 @@
 <dom>
   <node>
-    title>"diffpacks"
+    fileExt>".diffpack"
     <key>ssh-rsa8112017</key>
   </node>
   
   <node>
-    pack>nil
+    packName>nil
+    <key>ssh-rsa8112017</key>
+  </node>
+  
+  <node>
+    contents>block
     <key>ssh-rsa8112017</key>
   </node>
 </dom>
